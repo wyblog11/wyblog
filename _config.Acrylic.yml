@@ -16,18 +16,10 @@ menu:
 
 inject:
   head:
-     - <script src="https://cdn.staticfile.org/jquery/3.6.3/jquery.min.js"></script> # jQuery
-     - <script async data-pjax src="/js/txmap.js"></script> # 腾讯位置API
      - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/l-lin/font-awesome-animation/dist/font-awesome-animation.min.css"  media="defer" onload="this.media='all'">
      - <link rel="stylesheet" href="//at.alicdn.com/t/c/font_3895868_7yxmkxsu9a.css" media="defer" onload="this.media='all'">
      - <script async src="//at.alicdn.com/t/c/font_3895868_7yxmkxsu9a.js"></script> 
-     - <script src="https://npm.elemecdn.com/echarts@4.9.0/dist/echarts.min.js"></script>
-     - <link rel="stylesheet" href="/css/custom.css">
-     - <link rel="stylesheet" href="/css/swiperstyle.css" media="print" onload="this.media='all'">
-     - <link rel="stylesheet" href="https://cdn.cbd.int/hexo-butterfly-swiper-anzhiyu-pro/lib/swiper.min.css" media="print" onload="this.media='all'">
-     - <link rel="stylesheet" href="https://cdn.cbd.int/hexo-butterfly-swiper-anzhiyu-pro/lib/categoryGroup.css" media="print" onload="this.media='all'">
   bottom:   
-     - <script type="text/javascript" src="/js/rightmenu.js"></script>
      - <script defer src="https://npm.elemecdn.com/jquery@latest/dist/jquery.min.js"></script>
      - <script src="//cdn.bootcss.com/pace/1.0.2/pace.min.js">
 
